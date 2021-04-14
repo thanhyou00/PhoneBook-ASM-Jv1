@@ -55,13 +55,5 @@ public class PhoneBook extends Person{
 //        super.inraManhinh(); //To change body of generated methods, choose Tools | Templates.
     System.out.println("Họ : "+getHo()+", tên đệm : "+getTenDem()+", tên : "+getTen()+", năm sinh : "+getNamSinh()+", giới tính : "+getGioiTinh()+
             " Số điện thoại : "+numberPhone+ " ,Email : "+email+" ,Ghi chú : "+note);
-    }
-    
-    
-
-    
-    
-    
-
-    
+    }   
 }
