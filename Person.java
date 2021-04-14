@@ -29,7 +29,6 @@ public class Person {
     public String getHo() {
         return ho;
     }
-
     public void setHo(String ho) {
         this.ho = ho;
     }
